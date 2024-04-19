@@ -1,48 +1,64 @@
-# README
+# React Gif App Vite
 
-This README would normally document whatever steps are necessary to get your application up and running.
+A React app of Gif's
 
-### What is this repository for?
+## Description
 
-- Quick summary
-  - A React gif app
-- Version: 1.0
-- [Author](https://www.linkedin.com/in/felipenavaslederhos)
+A React app of Gif's
 
-### How do I get set up?
+## Demo
 
-- Summary of set up
+You can explore a live version of React Gif App Vite at the following URL:
 
-  - `yarn`
-  - `npm install`
+https://Felipe-Navas.github.io/react-gif-app-vite
 
-- How to run the app?
+## Getting Started
 
-  - `yarn start`
-  - `npm start`
+### Dependencies
 
-- How to run the tests?
+- `npm`
+- `node`
 
-  - `yarn test`
-  - `npm test`
+### Installing
 
-- Dependencies
-    - "react": "^18.2.0",
-    - "react-dom": "^18.2.0"
+- Clone the repository and install dependencies:
 
-- Dev dependencies
-    - "@types/react": "^18.0.15",
-    - "@types/react-dom": "^18.0.6",
-    - "@vitejs/plugin-react": "^2.0.0",
-    - "vite": "^3.0.0"
+```
+git clone https://github.com/Felipe-Navas/react-gif-app-vite.git && cd react-gif-app-vite && npm install
+```
 
-### Contribution guidelines
+### Executing program
 
-- Writing tests
-- Code review
-- Other guidelines
+```
+npm start
+```
 
-### Who do I talk to?
+Preview of the main screen:
 
-- Repo owner or admin
-- Other community or team contact
+<img width="350" src="assets/MainPreview.png" alt="Preview of the main screen" />
+
+### Running tests
+
+```
+npm test
+```
+
+Preview of the console after running the tests:
+
+<img width="350" src="assets/TestsPreview.png" alt="Preview of the console after running the tests" />
+
+## Authors
+
+- [Felipe Navas](https://www.linkedin.com/in/felipenavaslederhos) - [Email](mailto:felipenavas.itec@gmail.com?subject=[GitHub]%react-gif-app-vite)
+
+## Contributing
+
+1. Fork it (<https://github.com/Felipe-Navas/react-gif-app-vite/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
+## License
+
+This project is licensed under the [MIT License] - see the LICENSE file for details
