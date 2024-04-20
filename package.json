@@ -15,7 +15,7 @@
   "homepage": "https://Felipe-Navas.github.io/react-gif-app-vite",
   "scripts": {
     "start": "vite",
-    "build": "vite build",
+    "build": "vite build --base=./",
     "preview": "vite preview",
     "test": "jest --watchAll"
   },
