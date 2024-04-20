@@ -12,7 +12,7 @@
   "bugs": {
     "url": "https://github.com/Felipe-Navas/react-gif-app-vite/issues"
   },
-  "homepage": "https://github.com/Felipe-Navas/react-gif-app-vite",
+  "homepage": "https://Felipe-Navas.github.io/react-gif-app-vite",
   "scripts": {
     "start": "vite",
     "build": "vite build",
